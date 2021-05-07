@@ -1,5 +1,5 @@
 ## Directory
-[Home](https://github.com/keysor/ITFinal/blob/main/README.md)
+[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Major](https://github.com/keysor/ITFinal/blob/main/Major.md) | [Roll Carts](https://github.com/keysor/ITFinal/blob/main/Roll%20Carts.md) | [Computer Science](https://github.com/keysor/ITFinal/blob/main/Computer%20Science.md) | [Ocean](https://github.com/keysor/ITFinal/blob/main/Ocean.md)
 # Resume
 
 
