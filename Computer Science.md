@@ -1,5 +1,5 @@
 ## Directory
-[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md)
+[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md) | [Major](https://github.com/keysor/ITFinal/blob/main/Major.md) | [Roll Carts](https://github.com/keysor/ITFinal/blob/main/Roll%20Carts.md) | [Ocean](https://github.com/keysor/ITFinal/blob/main/Ocean.md)
 
 # Computer Science
 In my Computer Science class we did a whole bunch of fun stuff in the language C.
