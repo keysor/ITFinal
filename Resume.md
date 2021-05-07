@@ -1,6 +1,6 @@
 ## Directory
 [Home](https://github.com/keysor/Final/blob/main/README.md)
-## Resume
+# Resume
 
 
 Benjamin Dargue
