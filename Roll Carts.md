@@ -1,5 +1,5 @@
 ## Directory
-[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md)
+[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md) | [Major](https://github.com/keysor/ITFinal/blob/main/Major.md) | [Computer Science](https://github.com/keysor/ITFinal/blob/main/Computer%20Science.md) | [Ocean](https://github.com/keysor/ITFinal/blob/main/Ocean.md)
 # Roll Carts
 I recently wrote a paper on roll carts in Columbia, as in my hometown Kirkwood our county gave us [roll carts](https://github.com/keysor/ITFinal/blob/main/trashcans.jpg)  to put our trash and recycling in which in turn the companies would pick up and dispose of them accordingly.
 They're super simple contraptions that allow the trashbags or recycling to be kept put. Otherwise as we see in Columbia holes can tear in the trashbags from animals, weather or human error which when the wind picks up throws the trash everywhere; or simply when the trash truck is driving away they'll be throwing the trash around the city.
