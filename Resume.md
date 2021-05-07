@@ -1,5 +1,5 @@
 ## Directory
-[Home](https://github.com/keysor/Final/blob/main/README.md)
+[Home](https://github.com/keysor/ITFinal)
 # Resume
 
 
