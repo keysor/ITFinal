@@ -1,5 +1,5 @@
 ## Directory
-[Home](https://github.com/keysor/ITFinal) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md)
+[Home](https://github.com/keysor/ITFinal/blob/main/README.md) | [Resume](https://github.com/keysor/ITFinal/blob/main/Resume.md)
 
 # Major
 I've had a tough time choosing my major throughout my years of education. All throughout highschool I had no idea what I wanted to do, even now as a sophmore in college im not too sure what I would like to do, however take a journey with me.
